@@ -1,4 +1,4 @@
-Welcome to Shouldly's documentation!
+5Welcome to Shouldly's documentation!
 ====================================
 
 How asserting *Should* be
